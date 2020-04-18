@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ejercicio6<guia-ejercicios-java>",
+            "request": "launch",
+            "mainClass": "ar.edu.unahur.obj2.Ejercicio6.Ejercicio6",
+            "projectName": "guia-ejercicios-java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ejercicio1<guia-ejercicios-java>",
+            "request": "launch",
+            "mainClass": "ar.edu.unahur.obj2.ejercicio1.Ejercicio1",
+            "projectName": "guia-ejercicios-java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ejercicio2<guia-ejercicios-java>",
+            "request": "launch",
+            "mainClass": "ar.edu.unahur.obj2.ejercicio2.Ejercicio2",
+            "projectName": "guia-ejercicios-java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ejercicio3<guia-ejercicios-java>",
+            "request": "launch",
+            "mainClass": "ar.edu.unahur.obj2.ejercicio3.Ejercicio3",
+            "projectName": "guia-ejercicios-java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ejercicio4<guia-ejercicios-java>",
+            "request": "launch",
+            "mainClass": "ar.edu.unahur.obj2.ejercicio4.Ejercicio4",
+            "projectName": "guia-ejercicios-java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ejercicio5<guia-ejercicios-java>",
+            "request": "launch",
+            "mainClass": "ar.edu.unahur.obj2.ejercicio5.Ejercicio5",
+            "projectName": "guia-ejercicios-java"
+        }
+    ]
+}
